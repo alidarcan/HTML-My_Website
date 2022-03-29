@@ -13,4 +13,4 @@ This repo contains:
 -   contacts.html
 -   projects.html
 -   images folder
--   README.md file
+-   README.md
