@@ -1,6 +1,5 @@
 # My_Website
-https://alidarcan.github.io/CSS---My-Site/
-
+https://alidarcan.github.io/My_Website/
 ## INFORMATION
 
 It is about my CV.
