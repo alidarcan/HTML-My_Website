@@ -1,5 +1,5 @@
 # My_Website
-https://alidarcan.github.io/My_Website/
+[Click for Demo](https://alidarcan.github.io/My_Website/)
 ## INFORMATION
 
 It is about my CV.
